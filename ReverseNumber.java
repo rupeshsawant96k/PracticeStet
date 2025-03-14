@@ -8,7 +8,7 @@ public class ReverseNumber {
 		int rem;
 		int rev = 0;
 		
-		String name = "SHRUTI VICHARE";
+		String name = "Rupesh Sawant";
 		String reverse = "";
 		int leng = name.length();
 		
